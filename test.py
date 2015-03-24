@@ -1,3 +1,3 @@
-print 'AAAXXXtitiXXXAAA'
+print 'AAAXXXtitiXXXAAA......'
 print 'toto'
 print 'tata'
