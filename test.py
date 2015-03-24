@@ -10,4 +10,4 @@ print '2x'
 print '3x'
 print '4x'
 print 'B'
-
+print 'C'
