@@ -1,2 +1,1 @@
-print 'titi'
 print 'toto'
