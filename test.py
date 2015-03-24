@@ -1,3 +1,3 @@
-print 'XXXtitiXXX'
+print 'WWWXXXtitiXXXWWW'
 print 'toto'
 print 'tata'
