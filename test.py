@@ -5,3 +5,8 @@ print '3'
 print '4'
 print '5'
 print '6'
+print '1x'
+print '2x'
+print '3x'
+print '4x'
+
